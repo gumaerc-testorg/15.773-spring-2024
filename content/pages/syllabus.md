@@ -48,7 +48,7 @@ Final project
 
 ##  Course Textbook
 
-[*Deep Learning with Python*](https://www.manning.com/books/deep-learning-with-python-second-edition) by Francois Chollet, Second Edition, October 2021. ISBN: 9781617296864.
+{{% resource_link "fecb3f5b-9bc0-4d96-9e64-38ac82f4beaa" "*Deep Learning with Python*" %}} by Francois Chollet, Second Edition, October 2021. ISBN: 9781617296864.
 
 ## {{% resource_link "ff9cf30a-1801-4e2c-8671-55c7663e5480" "Schedule" %}}
 
@@ -64,10 +64,10 @@ A major deliverable for the course is a final project. You will submit a 1-page 
 
 We encourage teams to assemble/curate their own dataset. If that proves to be infeasible given the time constraints of a half-semester class, you are welcome to use publicly available datasets. To that end, the following resources may be helpful:
 
-- [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [Google Dataset Search](https://datasetsearch.research.google.com/)
-- [Huggingface Datasets](https://huggingface.co/datasets)
+- {{% resource_link "3eb42f33-237e-4a59-b874-5751f1742618" "Kaggle Datasets" %}}
+- {{% resource_link "e078d575-f21d-44ce-aab4-63e073230629" "Google Dataset Search" %}}
+- {{% resource_link "01639458-77d9-4f56-b097-47eace961498" "Huggingface Datasets" %}}
 
 Teams that do bring their own dataset to the project will get *extra* credit ©.
 
-All project submissions must be made available under [the MIT license](https://tldrlegal.com/license/mit-license#fulltext) and posted to Github.
+All project submissions must be made available under {{% resource_link "24d5469e-79c9-4d32-8345-1630f21c4435" "the MIT license" %}} and posted to Github.
